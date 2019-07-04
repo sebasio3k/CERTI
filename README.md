@@ -1,2 +1,2 @@
 # CERTI
-Certificaiones
+Certificaiones/Diplomas
